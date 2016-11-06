@@ -4,7 +4,6 @@
         "target": "es5",
         "module": "commonjs",
         "sourceMap": true,
-        "outFile": "app.js",
         "watch": true
     }
 }
