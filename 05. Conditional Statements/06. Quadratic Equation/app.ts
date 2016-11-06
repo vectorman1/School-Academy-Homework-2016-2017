@@ -35,5 +35,3 @@ function solve(args) {
     console.log(output);
     
 }
-
-solve([-0.5, 4, -6]);
