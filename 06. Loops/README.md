@@ -2,7 +2,7 @@
 
 ###### Homework:
 
-- [ ] 01. Numbers;
-- [ ] 02. MMSA;
-- [ ] 03. Matrix of numbers;
-- [ ] 04. Hex to decimal;
+- [x] 01. Numbers;
+- [x] 02. MMSA;
+- [x] 03. Matrix of numbers;
+- [x] 04. Hex to decimal;
