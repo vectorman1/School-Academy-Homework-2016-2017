@@ -21,4 +21,22 @@ Here I'll be collecting my homework from Telerik's School Academy, school year 2
     - [x] 02. MMSA;
     - [x] 03. Matrix of numbers;
     - [x] 04. Hex to decimal;
+  - Arrays
+    - [ ] 01. Increase array members;
+    - [ ] 02. Lexicographically comparison;
+    - [ ] 03. Maximal sequence;
+    - [ ] 04. Maximal increasing sequence;
+    - [ ] 05. Selection sort;
+    - [ ] 06. Most frequent number;
+    - [ ] 07. Binary search;
+    - [ ] 10. Prime numbers;
+  - Functions
+    - [ ] 01. Say Hello;
+    - [ ] 02. Get largest number;
+    - [ ] 03. English digit;
+    - [ ] 04. Appearance count;
+    - [ ] 05. Larger than neighbours;
+    - [ ] 06. First larger than neighbours;
+    - [ ] 07. Sorting array;
+    
 
